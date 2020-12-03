@@ -1,0 +1,5 @@
+C:\Users\Luis Tejeda\Desktop\Nueva carpeta (5)\Dominio\Dominio\bin\Debug\Dominio.dll
+C:\Users\Luis Tejeda\Desktop\Nueva carpeta (5)\Dominio\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Luis Tejeda\Desktop\Nueva carpeta (5)\Dominio\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Luis Tejeda\Desktop\Nueva carpeta (5)\Dominio\Dominio\obj\Debug\Dominio.dll
+C:\Users\Luis Tejeda\Desktop\Nueva carpeta (5)\Dominio\Dominio\obj\Debug\Dominio.pdb
